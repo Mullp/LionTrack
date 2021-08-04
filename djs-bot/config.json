@@ -1,0 +1,10 @@
+{
+  "discord": {
+    "token": "very secret ;D",
+    "prefix": ">",
+    "cmdChannel": ""
+  },
+  "mongodb": {
+    "uri": "mongodb://localhost:27017/liontrackdev"
+  }
+}

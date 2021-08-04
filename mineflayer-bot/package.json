@@ -1,0 +1,26 @@
+{
+  "name": "mineflayer-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "mineflayer": "^3.8.0",
+    "mongoose": "^5.13.3",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^2.6.1",
+    "prismarine-viewer": "^1.19.3"
+  }
+}

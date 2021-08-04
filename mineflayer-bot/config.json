@@ -1,0 +1,22 @@
+{
+  "discord": {
+    "AdWebhook": {
+      "id": "",
+      "token": ""
+    }
+  },
+  "mineflayer": {
+    "host": "minehut.com",
+    "port": "25565",
+    "email": "ihas@a.bucket",
+    "password": "NooooTheyBeStealin'MyBucket",
+    "auth": "mojang",
+    "viewer": {
+      "port": "3007",
+      "firstPerson": false
+    }
+  },
+  "mongodb": {
+    "uri": "mongodb://localhost:27017/liontrackdev"
+  }
+}
